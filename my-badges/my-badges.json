@@ -1,0 +1,44 @@
+[
+  {
+    "id": "a-commit",
+    "tier": 1,
+    "desc": "One of my commit sha starts with \"a\".",
+    "body": "- <a href=\"https://github.com/ronaldorodriguesl/acofin/commit/a21190f04c45a2317269c0c69fa27e899446643b\"><strong>a</strong>21190f04c45a2317269c0c69fa27e899446643b</a>",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/abc-commit/a-commit.png?raw=true"
+  },
+  {
+    "id": "evening-commits",
+    "tier": 0,
+    "desc": "I commit in the evening.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/ronaldorodriguesl/acofin/commit/f65bb7e62890d3ac4b0161410e230627088d1984\">f65bb7e</a>\n- <a href=\"https://github.com/ronaldorodriguesl/acofin/commit/b85e8c2cf5bb920f7c9a79a7d9e7d59701d29f76\">b85e8c2</a>\n- <a href=\"https://github.com/ronaldorodriguesl/acofin/commit/a21190f04c45a2317269c0c69fa27e899446643b\">a21190f</a>",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/time-of-commit/evening-commits.png?raw=true"
+  },
+  {
+    "id": "chore-commit",
+    "tier": 0,
+    "desc": "I did a little housekeeping! 🧹",
+    "body": "Commits:\n\n- <a href=\"https://github.com/ronaldorodriguesl/acofin/commit/b33de6ab8fc705efdb8a3c3a65794112fe7826c9\">b33de6a</a>: chore: Atualizando o readme",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/chore-commit/chore-commit.png?raw=true"
+  },
+  {
+    "id": "covid-19",
+    "tier": 0,
+    "desc": "I rolled before Covid-19: Survivor of the Great TP Shortage",
+    "body": "",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/covid-19/covid-19.png?raw=true"
+  },
+  {
+    "id": "public-keys-3",
+    "tier": 3,
+    "desc": "I have three public keys",
+    "body": "",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/public-keys/public-keys-3.png?raw=true"
+  },
+  {
+    "id": "favorite-word",
+    "tier": 0,
+    "desc": "My favorite word is \"feat:\".",
+    "body": "My favorite commit message words are:\n\n1. feat: (used 5 times)\n2. de (used 5 times)\n3. commit (used 4 times)\n4. adicionado (used 3 times)\n5. página (used 3 times)",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/favorite-word/favorite-word.png?raw=true"
+  }
+]
