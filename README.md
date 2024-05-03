@@ -26,5 +26,6 @@ Here are some ideas to get you started:
 <a href="my-badges/favorite-word.md"><img src="https://github.com/my-badges/my-badges/blob/master/src/all-badges/favorite-word/favorite-word.png?raw=true" alt="My favorite word is &quot;feat:&quot;." title="My favorite word is &quot;feat:&quot;." width="64"></a>
 <a href="my-badges/public-keys-2.md"><img src="https://github.com/my-badges/my-badges/blob/master/src/all-badges/public-keys/public-keys-2.png?raw=true" alt="I have two public keys" title="I have two public keys" width="64"></a>
 <a href="my-badges/public-keys-1.md"><img src="https://github.com/my-badges/my-badges/blob/master/src/all-badges/public-keys/public-keys-1.png?raw=true" alt="I have one public key" title="I have one public key" width="64"></a>
+<a href="my-badges/github-anniversary-5.md"><img src="https://github.com/my-badges/my-badges/blob/master/src/all-badges/github-anniversary/github-anniversary-5.png?raw=true" alt="I joined GitHub 5 years ago." title="I joined GitHub 5 years ago." width="64"></a>
 <!-- my-badges end -->
 
