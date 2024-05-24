@@ -6,7 +6,7 @@ My favorite commit message words are:
 
 1. feat: (used 5 times)
 2. de (used 5 times)
-3. commit (used 4 times)
+3. commit (used 5 times)
 4. adicionado (used 3 times)
 5. página (used 3 times)
 
