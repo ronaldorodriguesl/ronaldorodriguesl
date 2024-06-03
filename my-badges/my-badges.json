@@ -37,8 +37,8 @@
   {
     "id": "favorite-word",
     "tier": 0,
-    "desc": "My favorite word is \"feat:\".",
-    "body": "My favorite commit message words are:\n\n1. feat: (used 5 times)\n2. de (used 5 times)\n3. commit (used 5 times)\n4. adicionado (used 3 times)\n5. página (used 3 times)",
+    "desc": "My favorite word is \"commit\".",
+    "body": "My favorite commit message words are:\n\n1. commit (used 5 times)\n2. feat: (used 3 times)\n3. adicionado (used 3 times)\n4. página (used 3 times)\n5. de (used 3 times)",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/favorite-word/favorite-word.png?raw=true"
   },
   {
